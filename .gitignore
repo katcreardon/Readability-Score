@@ -1,0 +1,22 @@
+# Files common to all JetBrains Academy projects
+.gradle
+.idea
+gradle
+build.gradle
+course-info.yaml
+course-remote-info.yaml
+gradlew
+gradlew.bat
+settings.gradle
+*/lesson-info.yaml
+Problems/*/task-info.yaml
+Problems/*/task-remote-info.yaml
+Problems/*/out
+*/task/build
+*/task/test
+
+# Unique to project
+Readability Score/*/task-info.yaml
+Readability Score/*/task-remote-info.yaml
+Readability Score/task/*
+!Readability Score/task/src
